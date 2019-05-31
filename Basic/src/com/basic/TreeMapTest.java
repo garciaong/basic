@@ -8,7 +8,9 @@ import java.util.TreeMap;
 public class TreeMapTest {
 
 	public static void main(String[] args) {
-
+		entries();
+		navigableMap();
+		sortedMap();
 	}
 
 	private static void entries() {
